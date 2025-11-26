@@ -1,0 +1,80 @@
+hhhiiiiiii  amal
+{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+hhhiiiiiii  world{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
+{
+  "name": "amal",
+  "place": "ayikarapadi",
+  "pincode": "673737"
+}
